@@ -153,7 +153,7 @@ module.exports = function (grunt) {
                     cleancss: false
                 },
                 files: {
-                    "css/style.css": "less/style.less"
+                    "dev/css/style.css": "dev/less/style.less"
                 }
             },
 			release: {
